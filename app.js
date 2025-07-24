@@ -1,8 +1,8 @@
 // 1) Your Firebase settings (replace with your own):
 const firebaseConfig = {
-  apiKey: "YOUR_API_KEY",
-  authDomain: "YOUR_PROJECT_ID.firebaseapp.com",
-  projectId: "YOUR_PROJECT_ID",
+  apiKey: "AIzaSyAyanMjE2mqlsAxwV2JdaR7FzKAVT7KfZE",
+  authDomain: "pebble-store-2b1ba.firebaseapp.com",
+  projectId: "pebble-store-2b1ba",
 };
 
 // 2) Initialize Firebase services:
